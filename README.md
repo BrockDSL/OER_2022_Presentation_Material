@@ -16,4 +16,5 @@ Tim Ribaric and Cal Murgu, Librarians at Brock University, will discuss ed-tech 
 
 [Presentation Material]()
 
-[Example Notebook]()
+[Example Notebook](https://colab.research.google.com/github/BrockDSL/OER_2022_Presentation_Material/blob/main/OES_Workshop.ipynb)
+(This will load the activity directly in the Google Colab environment)
